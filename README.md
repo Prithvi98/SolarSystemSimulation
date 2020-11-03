@@ -1,2 +1,2 @@
-# SolarSystemSimulation
- C# Code for a basic Solar System simulation with Unity
+A basic simulation of Solar System using Unity3D and C#.  
+A Copy of the WebGL version of the simulation is attached.
